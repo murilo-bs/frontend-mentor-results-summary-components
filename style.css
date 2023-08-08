@@ -179,6 +179,6 @@ button:hover {
         flex-direction: column;
         border-radius: 0;
         overflow: hidden;
-        padding: 0;
+        padding: 10;
     }
 }
