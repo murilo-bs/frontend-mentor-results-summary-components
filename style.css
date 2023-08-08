@@ -30,9 +30,6 @@ body {
 
 }
 
-.esquerda h4 {
-        margin: 15px auto;
-
 .direita {
     width: 50%;
     padding: 20px;
@@ -156,6 +153,10 @@ button:hover {
         border-radius: 0px;
         border-bottom-left-radius: 20px;
         border-bottom-right-radius: 20px;
+    }
+
+    .esquerda h4 {
+        margin: 15px auto;
     }
 
     .direita {
